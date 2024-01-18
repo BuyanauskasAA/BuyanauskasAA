@@ -5,8 +5,8 @@
 
 #### Технологии
 
-React.js JavaScript TypeScript Webpack 
-Express.js Node.js Jest MongoDB
-HTML5 CSS3 Figma BEM Sass Pug Gulp
-PHP MySQL CMS-Bitrix
+React.js JavaScript TypeScript Webpack  
+Express.js Node.js Jest MongoDB  
+HTML5 CSS3 Figma BEM Sass Pug Gulp  
+PHP MySQL CMS-Bitrix  
 Linux Git  
