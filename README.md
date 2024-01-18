@@ -1,13 +1,9 @@
 #### Здравствуйте!
 
----
-
 Считаю, что Frontend-разработка интересное и перспективное направление в IT.  
 Хочу развиваться в этой сфере: создавать полезные сервисы и улучшать свои навыки.
 
 #### Технологии
-
----
 
 React.js | JavaScript | TypeScript | Webpack  
 Express.js | Node.js | MongoDB | Jest  
@@ -17,10 +13,7 @@ Linux | Git
 
 #### Контакты
 
----
-
 Mail: Buyanauskas@yandex.ru  
 Telegram: [@BuyanauskasAA](https://t.me/BuyanauskasAA)  
-LinkedIn: https://www.linkedin.com/in/anton-buyanauskas-222ba5237/ 
 
 > Активно ищу работу
