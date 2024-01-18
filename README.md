@@ -5,8 +5,15 @@
 
 #### Технологии
 
-React.js JavaScript TypeScript Webpack  
-Express.js Node.js Jest MongoDB  
-HTML5 CSS3 Figma BEM Sass Pug Gulp  
-PHP MySQL CMS-Bitrix  
-Linux Git  
+React.js | JavaScript | TypeScript | Webpack  
+Express.js | Node.js | MongoDB | Jest  
+HTML5 | CSS3 | Sass | Pug | Gulp | Figma | BEM  
+PHP | MySQL | CMS-Bitrix  
+Linux | Git  
+
+#### Контакты
+
+Mail: Buyanauskas@yandex.ru  
+Telegram: [@BuyanauskasAA](https://t.me/BuyanauskasAA)
+
+> Активно ищу работу
