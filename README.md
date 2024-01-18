@@ -13,7 +13,7 @@ Linux | Git
 
 #### Контакты
 
-Mail: Buyanauskas@yandex.ru  
+Mail: Buyanauskas@gmail.com  
 Telegram: [@BuyanauskasAA](https://t.me/BuyanauskasAA)  
 
 > Активно ищу работу
